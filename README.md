@@ -1,38 +1,36 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Matthew Campbell**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that is a spin off of the popular wordle game
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [X] User can change the number of letters per row (the length of the goal word)
+- [X] User can change the numbers of rows on the board (how many guesses allowed)
+- [X] User can select a new themed set to pull the goal word from
+- [X] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [X] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] After you fill in all of the rows the game resets with new settings.
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Demo](https://youtube.com/shorts/_Sw71gNkNO4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty passing variables between the boardview and the view controller as well as just needing more practice with closures and guard. 
 
 ## License
 
